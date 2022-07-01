@@ -1,0 +1,2 @@
+.Clock{display:grid;grid-template-rows:repeat(3,1fr);align-items:center;justify-items:center;width:500px;height:400px;margin:0 auto;border:2px solid orange;border-radius:40px}.Clock__title{color:green}.Clock__time{font-size:20px}.Clock__buttons{display:flex;grid-gap:30px;gap:30px;grid-row:3/4}.Clock__btn{width:130px;padding:10px;background-color:transparent;border:2px solid purple;border-radius:5px;transition:background-color .3s}.Clock__btn:hover{cursor:pointer;background-color:#ff0}
+/*# sourceMappingURL=main.2de9614c.chunk.css.map */
